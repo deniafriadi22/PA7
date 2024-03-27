@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc36d9f7-85fc-455a-8510-4f7423677194" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/pet/pet.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestSuite/pet/user.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Karate" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dzEwosIgQXYCOQ66tmLHHR9YD4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Runner.executor": "Run",
+    "JUnit.Runner.runGet.executor": "Run",
+    "JUnit.Runner.runPet.executor": "Run",
+    "JUnit.Runner.runUser.executor": "Run",
+    "Karate Feature.pet.feature: pet.feature.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Program Files/auto D/KarateAdvance",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\auto D\KarateTutor\src\test\java\TestSuite\pet" />
+      <recent name="D:\Program Files\auto D\KarateTutor\src\test\java\TestSuite\pet\Pet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner.runUser">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.runGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.runPet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runPet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner.runUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTutor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite.Runner" />
+      <option name="METHOD_NAME" value="runUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner.runUser" />
+        <item itemvalue="JUnit.Runner.runPet" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.Runner.runGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc36d9f7-85fc-455a-8510-4f7423677194" name="Changes" comment="" />
+      <created>1711002748965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711002748965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Runner.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
